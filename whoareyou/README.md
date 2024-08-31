@@ -1,0 +1,5 @@
+- `virtualenv dsfs`
+- `source dsfs/bin/activate`
+- `pip install deepface tf-keras`
+- `pip3 install 'tensorflow[and-cuda]'`
+- https://www.tensorflow.org/install/pip

@@ -23,4 +23,4 @@ while True:
         break
 
     answer = asyncio.run(chat(question))
-    print(f"\nAnswer: {answer}\n")
+    print("\n") 
